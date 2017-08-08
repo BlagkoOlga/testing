@@ -8,9 +8,6 @@ import java.sql.*;
 
 import static com.issue.IssueConstants.PATH;
 
-/**
- * Created by olgaliutsko on 8/5/17.
- */
 public class BaseTest {
     protected int clientId;
     protected double balancesValue;
